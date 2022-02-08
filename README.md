@@ -1,5 +1,5 @@
 <h1>Olá Mundo! Eu sou o Gustavo😎</h1>
-<img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" />
+<img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 <li>🎉Versão 2.5.</li>
 <li>🏋️‍♀️Atualmente trabalhando com Suporte Técnico.</li>
 <li>👨‍🎓Formado em ADS e estudando para me tornar no Dev Frontend.</li>
@@ -19,7 +19,11 @@
   <img align="center" alt="Gustavo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-##  
+## 
+<a href="https://www.linkedin.com/in/devgustavosantos/" target="_blank"><img alt="Gustavo-git" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="mailto:gustavom96.santos@gmail.com" target="_blank"><img alt="Gustavo-git" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+
 <div>
 
 <br>
