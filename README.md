@@ -22,7 +22,7 @@
 
 ## 
 <a href="https://www.linkedin.com/in/devgustavosantos/" target="_blank"><img alt="Gustavo-git" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="mailto:gustavom96.santos@gmail.com" target="_blank"><img alt="Gustavo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:devgustavosantos@gmail.com" target="_blank"><img alt="Gustavo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <a href="https://discord.com/channels/940492484197367838/940492484197367840" target="_blank"><img alt="Gustavo-discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> </a>
 
 ## 
