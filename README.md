@@ -1,7 +1,6 @@
 <h1>Olá, Mundo! Eu sou o Gustavo😎</h1>
 <img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 <li>🎉Versão 2.5.</li>
-<li>🏋️‍♀️Atualmente trabalhando com Suporte Técnico.</li>
 <li>👨‍🎓Formado em ADS e estudando para me tornar no Dev Frontend.</li>
 <li>💻O melhor código é aquele que a manutenção é fácil.</li>
 
