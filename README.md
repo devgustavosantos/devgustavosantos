@@ -1,7 +1,7 @@
 <h1>Olá, Mundo! Eu sou o Gustavo😎</h1>
 <img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 <li>🎉Versão 2.5.</li>
-<li>👨‍🎓Formado em ADS e estudando para me tornar no Dev Frontend.</li>
+<li>👨‍🎓Formado em ADS e estudando para me tornar no Dev Front-end.</li>
 <li>💻O melhor código é aquele que a manutenção é fácil.</li>
 
 
@@ -9,11 +9,11 @@
   <h3>Aprendendo nesse momento:</h3>
     <img align="center" alt="Gustavo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gustavo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gustavo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
 
   <div style="display: inline_block; width: 10em;">
   <h3>Para estudar em breve:</h3>
-    <img align="center" alt="Gustavo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gustavo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Gustavo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
