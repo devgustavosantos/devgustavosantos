@@ -16,7 +16,6 @@
   <div style="display: inline_block; width: 10em;">
   <h3>Para estudar em breve:</h3>
     <img align="center" alt="Gustavo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Gustavo-jquerry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
     <img align="center" alt="Gustavo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     
   </div>
