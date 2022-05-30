@@ -1,5 +1,5 @@
 # Olá, Mundo! Eu sou o Gustavo😎
-<img align="right" alt="Gustavo-gif" height="420" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
+<img align="right" alt="Gustavo-gif" height="410" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 
 - 🎉Versão 2.5
 - 👨‍🎓Formado em ADS e estudando para me tornar um Dev Full Stack.
