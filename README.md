@@ -1,22 +1,20 @@
 # Olá, Mundo! Eu sou o Gustavo😎
-<img align="right" alt="Gustavo-gif" height="410" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
+<img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 
 - 🎉Versão 2.5
-- 👨‍🎓Formado em ADS e estudando para me tornar um Dev Full Stack.
+- 👨‍🎓Formado em ADS e estudando para me tornar no Dev Fullstack.
 - 💻O melhor código é aquele que a manutenção é fácil.
  
  
 
-## Aprendendo nesse momento
+## Aprendendo nesse momento:
 
 - [X] HTML
 - [X] CSS
 - [X] Javascript
 - [X] Git
-- [ ] React
-- [ ] Bootstrap
 - [ ] NodeJS
-- [ ] MySql
+- [ ] React
 
  
 
@@ -26,15 +24,13 @@
     <img alt="Gustavo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="Gustavo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Gustavo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Gustavo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img alt="Gustavo-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img alt="Gustavo-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img alt="Gustavo-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+    <img alt="Gustavo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  
  
 
-## Fale comigo
+## Fale comigo em:
 <div style="max-width: 100%; margin: 0 auto;">
   <a href="https://www.linkedin.com/in/devgustavosantos/" target="_blank"><img alt="Gustavo-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="mailto:devgustavosantos@gmail.com" target="_blank"><img alt="Gustavo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
@@ -46,6 +42,6 @@
 ## Github Status
 <div>
   <a href="https://github.com/devgustavosantos">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devgustavosantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavosantos&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devgustavosantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavosantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
