@@ -14,7 +14,7 @@
 - [X] Javascript
 - [X] Git
 - [ ] NodeJS
-- [ ] React
+- [ ] ReactJS
 
  
 
