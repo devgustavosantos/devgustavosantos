@@ -2,7 +2,7 @@
 <img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 
 - 🎉Versão 2.5
-- 👨‍🎓Formado em ADS e estudando para me tornar no Dev Fullstack.
+- 👨‍🎓Formado em ADS e estudando para me tornar um Dev Fullstack.
 - 💻O melhor código é aquele que a manutenção é fácil.
  
  
