@@ -1,4 +1,4 @@
-# 🖖Hello World! I'm Gustavo
+# 🖖Hello World, I'm Gustavo!
 <img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 
 - 🎉 Version 2.5
