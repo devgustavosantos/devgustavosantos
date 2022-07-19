@@ -2,7 +2,7 @@
 <img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 
 - 🎉 Version 2.5
-- 👨‍ 🎓Graduated in Systems Analysis and Development.
+- 🎓 Graduated in Systems Analysis and Development.
 - 🚀 Actualand I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 - 💻 The best code is the one that is easy to maintain.
 
