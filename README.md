@@ -1,14 +1,14 @@
 # 🖖Hello World, I'm Gustavo!
 <img align="right" alt="Gustavo-gif" height="300" src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif"/>
 
-- 🎉 Version 2.6
+- 🎉 Version 2.8
 - 🎓 Graduated in Systems Analysis and Development.
 - 🚀 Actualand I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 - 💻 The best code is the one that is easy to maintain.
 
 ## Current Stack
-- 🥇 Main Language: `Javascript`.
-- 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`, `ReactJS`.
+- 🥇 Main Language: `Typesscript`.
+- 🎉 Frontend: `HTML5`, `CSS3`, `Javascript`, `ReactJS`, `Typescript`, `Sass`.
 - ⚙ Backend: `NodeJS`, `Sqlite`.
 - 📦 Version code control: `Git and Github`.
 - 🛠️ Tools: `VS Code` and `Markdown`.
